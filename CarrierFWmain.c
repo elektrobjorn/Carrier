@@ -7,7 +7,7 @@
 // Firmware for DNS carrier. 
 // Initially written for ADXRS290 gyros. Can be adapted to different sensors.
 
- 
+// Dette er bare noen dumme kommentarer for å teste git. 
 
 //ATmega168A
 // Note: For ATmega328, the BOD and BOOT fuses have exchanged places. Take care of this if bootloader is implemented.
